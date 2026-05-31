@@ -90,9 +90,9 @@ https://jimiprusti.github.io/portfolio/
 
 ## 📫 Contact
 
-**Email**
+<!--**Email**
 
-[jimi@jpnordiq.fi](mailto:jimi@jpnordiq.fi)
+[jimi@jpnordiq.fi](mailto:jimi@jpnordiq.fi)-->
 
 **Portfolio**
 
