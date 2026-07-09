@@ -92,8 +92,8 @@ https://jimiprusti.github.io/portfolio/
 
 **Email**
 
-Coming soon
-<!--[jimi@jpnordiq.fi](mailto:jimi@jpnordiq.fi)-->
+<!--Coming soon-->
+[jimi@jpnordiq.fi](mailto:jimi@jpnordiq.fi)
 
 **Portfolio**
 
